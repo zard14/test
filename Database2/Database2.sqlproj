@@ -66,5 +66,6 @@
   <ItemGroup>
     <Build Include="dbo\Tables\kkk.sql" />
     <Build Include="dbo\Stored Procedures\sp_test.sql" />
+    <Build Include="dbo\Tables\ggg.sql" />
   </ItemGroup>
 </Project>
